@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" width="auto" height="auto"/>;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" width="auto" height="auto"/>
 
 <div align="center">
   <h1><b>Greetings App Front-end</b></h1>
@@ -29,6 +29,8 @@
 # 📖 Greetings <a name="about-project"></a>
 
 Greetings is a web application that displays a random greeting message on screen, using React as front-end and Rails as back-end.
+
+Back-end repo: https://github.com/paulinagonzalezc/hello-rails-back-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
